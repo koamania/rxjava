@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.observable;
 
 import io.reactivex.Observable;
 import io.reactivex.disposables.Disposable;
